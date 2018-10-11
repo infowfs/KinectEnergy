@@ -1,4 +1,36 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Kinect - Guide for editors](README.md)
+* [Content types](content-types.md)
+* [Paragraphs - introduction and how to use them](paragraphs-introduction-and-how-to-use-them.md)
+* [Paragraphs available on Kinect \(quick look\)](paragraphs-available-on-kinect-quick-look.md)
+
+## Paragraphs
+
+* [Hero Banner](paragraphs/hero-banner.md)
+* [Featured Blocks](paragraphs/featured-blocks.md)
+* [Info-graphic](paragraphs/info-graphic.md)
+* [Columns](paragraphs/columns.md)
+* [Video Block](paragraphs/video-block.md)
+* [Accordion Content](paragraphs/accordion-content.md)
+* [Dynamic Block](paragraphs/dynamic-block.md)
+* [Image CTA](paragraphs/image-cta.md)
+* [Iframe Content](paragraphs/iframe-content.md)
+* [Map Location](paragraphs/map-location.md)
+* [Media Library](paragraphs/media-library.md)
+* [Profiles](paragraphs/profiles.md)
+* [Sidebar](paragraphs/sidebar.md)
+* [Text Content](paragraphs/text-content.md)
+
+## Content Types
+
+* [Generic Details](content-types-1/generic-details.md)
+* [Map Location](content-types-1/map-location.md)
+* [Events / Webinars](content-types-1/events-webinars.md)
+* [Profiles](content-types-1/profiles.md)
+* [Media](content-types-1/media.md)
+
+## Views
+
+* [Untitled](views/untitled.md)
 
