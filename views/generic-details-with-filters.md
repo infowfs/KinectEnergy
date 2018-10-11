@@ -1,0 +1,2 @@
+# Generic Details with filters
+

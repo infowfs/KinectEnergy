@@ -32,5 +32,11 @@
 
 ## Views
 
-* [Untitled](views/untitled.md)
+* [Downloads](views/untitled.md)
+* [Event Blocks](views/event-blocks.md)
+* [Events List](views/events-list.md)
+* [Generic Details](views/generic-details.md)
+* [Generic Details with filters](views/generic-details-with-filters.md)
+* [Latest News](views/latest-news.md)
+* [Menus](views/menus.md)
 

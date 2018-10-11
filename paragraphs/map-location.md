@@ -28,5 +28,5 @@ This is the editor's page for the **Map Location** paragraph:
 
 ![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LLjYtHePCsCaZ9F3NOs%2F-LOT4mUZPWG7tJ8VQ6x2%2F-LOT5ui8NFOyM1LCMELt%2Fmap_location-01.png?alt=media&token=b597c092-b278-49d6-9060-387696bf279e)
 
-​
+​- Waiting details to finish this paragraph- 
 
