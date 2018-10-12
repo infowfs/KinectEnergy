@@ -56,7 +56,7 @@ This is the editor's page for the **Accordion content** paragraph:
 
 8. **Save:** you can select _"Save and Create New Draft",_ "_Save and Request Review"_ or _"Save and Publish"._
 
-{% hint style="success" %}
-Congratulations... an **Accordion content** paragraph has been created!​
-{% endhint %}
+\_\_
+
+_**Congratulations... an Accordion content paragraph has been created!**_
 

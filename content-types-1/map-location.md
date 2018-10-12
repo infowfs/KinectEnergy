@@ -43,5 +43,7 @@ Map location's form is composed by two tabs:
 2. **Language**: select the language. This is important in order to properly display the content according to the region that users have selected while they browse the website.
 3. **Save:** you can select _"Save and Create New Draft",_ "_Save and Request Review"_ or _"Save and Publish"._
 
-Congratulations! You know how to use and create the Map Location Content type. 
+\_\_
+
+_**Congratulations...you know how to use and create the Map Location Content type!**_
 

@@ -45,7 +45,7 @@ This form will help you build each one of the Featured Block Items that will be 
 5. **URL**: you can set the element to open a piece of content within the site or add an external URL.
 6. **Add Featured Block Item**: you can add as many items as you want, or click **Save:** you can select _"Save and Create New Draft",_ "_Save and Request Review"_ or _"Save and Publish"._
 
-{% hint style="success" %}
-Congratulations... a **Featured Block** paragraph has been created!
-{% endhint %}
+\_\_
+
+_**Congratulations ... a Featured Block has been created!**_
 

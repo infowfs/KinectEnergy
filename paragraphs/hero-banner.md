@@ -52,13 +52,9 @@ Once completed this form, go to tab **Basic Information**. It should look like t
 2. **Region:** set the region from the dropdown menu. The hero will be displayed only on the region that you have selected.
 3. **Save:** you can select _"Save and Create New Draft",_ "_Save and Request Review"_ or _"Save and Publish"._
 
-{% hint style="info" %}
-Notice that Basic Information must be completed only when the page where you want to add the Hero Banner has not been created. 
-{% endhint %}
+_Notice that Basic Information tabs must be filled only when the page where you want to add the Hero Banners has not been created._
 
-{% hint style="success" %}
-Congratulations... a **Hero Banner** has been created!
-{% endhint %}
+\_\_
 
-​
+_**Congratulations ... a Hero banner has been created!**_
 

@@ -57,9 +57,9 @@ This is the editor's page for the **Accordion content** paragraph:
 7. **Add Components:** remember that a page is created by a components and paragraphs. If you add another component, it means that will be placed below the columns you have created. You can add as many components as you want and the components will be stacked and arranged in the order they were created.   
 8. **Save:** you can select _"Save and Create New Draft",_ "_Save and Request Review"_ or _"Save and Publish"._
 
-{% hint style="success" %}
-Congratulations... an **Accordion content** paragraph has been created!
-{% endhint %}
+\_\_
+
+_**Congratulations... an Accordion content paragraph has been created!**_
 
 
 

@@ -31,5 +31,5 @@ You'll see a form like this:
 
 
 
-Congratulations! Now you can publish media content type.
+_**Congratulations... now you can publish media content type!**_
 

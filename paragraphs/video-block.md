@@ -32,11 +32,5 @@ You should see a form like this:
 4. **Add Components**: you can add another paragraph if you want. This is will be added below the current paragraph.
 5. Click **Save:** you can select _"Save and Create New Draft",_ "_Save and Request Review"_ or _"Save and Publish"._
 
-{% hint style="success" %}
-Congratulations... a **Video Block** paragraph has been created!
-{% endhint %}
-
-
-
-​
+_**Congratulations... a Video Block paragraph has been created!**_​
 

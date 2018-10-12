@@ -48,7 +48,7 @@ This is the editor's page for the **Columns** paragraph:
 
 Remember that a column is only a wrap for displaying existing content. Once created, each column must have a content type. For example, you can use an **Event block** to showcase outgoing events or a **Sidebar block** to call a menu.
 
-{% hint style="success" %}
-Congratulations... now you know how to create **Columns**!
-{% endhint %}
+
+
+_**Congratulations ... now you know how to create Columns!**_
 

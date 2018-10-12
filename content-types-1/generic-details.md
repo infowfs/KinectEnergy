@@ -36,9 +36,7 @@ The first tab is Hero Banner. It gives you the option to add a Hero banner when 
 
 ![](../.gitbook/assets/hero_example_generic.png)
 
-{% hint style="info" %}
-If you don't want to add a Hero banner, skip this step and go directly to the second tab. 
-{% endhint %}
+_Notice: If you don't want to add a Hero Banner, skip this step and go directly to the second tab._ 
 
 To add the hero banner, you must fill up the Hero banner tabs like this:
 
@@ -51,14 +49,9 @@ To add the hero banner, you must fill up the Hero banner tabs like this:
 
 ![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LLjYtHePCsCaZ9F3NOs%2F-LMlFAO5Ttgh8hkvZgx0%2F-LMl7GU3GgAaV1P8ATTA%2FImage_size.png?alt=media&token=926eac0e-d08d-43db-83d5-265b6b91f27e)
 
-   5. Overlay color: this feature allows you to add a color block that will be place over the image as a background for the text.   
-   6 Opacity: set the
+   5 -6. **Overlay color and opacity**: you'll be requested to set a color that will be placed over the image as a background color for the text for featured block item. Once the color selected, you can adjust the opacity. 0 value would be no opacity and 1 full solid color.
 
-{% hint style="info" %}
-Remember that the video will always have the priority over the image. 
-
-Image file requirements: One file only. 32 MB limit. Allowed types: png gif jpg jpeg
-{% endhint %}
+_Remember that the video will always have the priority over the image. Image file requirements: one file only. 32 Mb max limit. Allowed types: png, gif, jpg, jpeg._
 
 ### Second tab: Basic Information
 
@@ -97,13 +90,9 @@ All you have to do is to select one component from the dropdown menu.
 
 ![](../.gitbook/assets/sidebar_generic.png)
 
-{% hint style="info" %}
-Again, if you don't need a sidebar, you should leave this tab form empty. 
-{% endhint %}
+_Notice: if you don't need a sidebar, you should leave this tab form empty._ 
 
 Once you have completed the tabs, just hit **Save** and select from _"Save and Create New Draft",_ "_Save and Request Review"_ or _"Save and Publish"._
 
-{% hint style="success" %}
-Congratulations, now you can create a **Generic Detail**
-{% endhint %}
+_**Congratulations, now you can create a Generic Detail!**_
 

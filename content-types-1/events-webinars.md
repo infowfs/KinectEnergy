@@ -37,11 +37,7 @@ If you don't want to add a Hero banner, skip this step and go directly to the se
 
    ****5 -6. **Overlay color and opacity**: you'll be requested to set a color that will be placed over the image as a background color for the text for featured block item. Once the color selected, you can adjust the opacity. 0 value would be no opacity and 1 full solid color.
 
-{% hint style="info" %}
-Remember that the video will always have the priority over the image. 
-
-Image file requirements: One file only. 32 MB limit. Allowed types: png gif jpg jpeg
-{% endhint %}
+_Notice that the video will always have the priority over the image. Image requirements: One file only. 32 Mb. Allowed types: png, gif, jpg, jpeg._
 
 
 

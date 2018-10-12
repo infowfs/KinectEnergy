@@ -64,5 +64,5 @@ This option allows you to add more component to that page. It can be an Image Li
 
 
 
-Congratulations, now you're ready to create and publish **profiles!** 
+_**Congratulations, now you're ready to create and publish profiles!**_ 
 

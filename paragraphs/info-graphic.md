@@ -42,7 +42,9 @@ Now it's time to add content to each item:
 9. **Add Components:** remember that a page is created by a components and paragraphs. If you add another component, it means that will be placed below the columns you have created. You can add as many components as you want and they will be stacked and arranged in the order they were created.   
 10. **Save:** you can select _"Save and Create New Draft",_ "_Save and Request Review"_ or _"Save and Publish"._
 
-{% hint style="success" %}
-Congratulations... you have created an **Info-graphic**!
-{% endhint %}
+\_\_
+
+_**Congratulations ... you have created an Info-graphic!**_
+
+
 
