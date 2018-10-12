@@ -1,6 +1,6 @@
 # Dynamic Block
 
-Dymamic block is a component that allows users to call content to be displayed in a pre defined view. That said, this component is a view or a wrap to display content types created with: _generic details, events, media, etc_.
+Dymamic block is a component that allows Editors to call content to be displayed in a pre defined view. That said, this component is a view or a wrap to display content types created with: _generic details, events, media, etc_.
 
 Let's say you want to add a dynamic block to a page in order to display the upcoming events. In this case, all you have to do is:
 

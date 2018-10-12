@@ -1,6 +1,6 @@
 # Map Location
 
-**Map Location** is a component that allows users to embedded a map view using existing content in a pre defined template. This view includes a filter section to narrow the search by region and country.
+**Map Location** is a component that allows Editors to embedded a map view using existing content in a pre defined template. This view includes a filter section to narrow the search by region and country.
 
 The content for this paragraph must be created using the **Map Location content type**.![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LLjYtHePCsCaZ9F3NOs%2F-LOT46IhqJVlHMzPl5m_%2F-LOT4aDY6tqOMNzq17kD%2FMap_location_view.png?alt=media&token=43c07efe-bac1-4b54-bca3-9c1ae8475ec3)
 
@@ -29,4 +29,6 @@ This is the editor's page for the **Map Location** paragraph:
 ![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LLjYtHePCsCaZ9F3NOs%2F-LOT4mUZPWG7tJ8VQ6x2%2F-LOT5ui8NFOyM1LCMELt%2Fmap_location-01.png?alt=media&token=b597c092-b278-49d6-9060-387696bf279e)
 
 ​- Waiting details to finish this paragraph- 
+
+maxzoom es el maximo zoom que se puede hacer en el mapa. 
 
