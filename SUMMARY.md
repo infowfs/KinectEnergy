@@ -24,11 +24,11 @@
 
 ## Content Types
 
-* [Generic Details](content-types-1/generic-details.md)
-* [Map Location](content-types-1/map-location.md)
-* [Events / Webinars](content-types-1/events-webinars.md)
-* [Profiles](content-types-1/profiles.md)
-* [Media](content-types-1/media.md)
+* [Generic Details content type](content-types-1/generic-details.md)
+* [Map Location content type](content-types-1/map-location.md)
+* [Events / Webinarsm content type](content-types-1/events-webinars.md)
+* [Profiles content type](content-types-1/profiles.md)
+* [Media content type](content-types-1/media.md)
 
 ## Views
 

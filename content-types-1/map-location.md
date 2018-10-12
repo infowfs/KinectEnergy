@@ -1,4 +1,4 @@
-# Map Location
+# Map Location content type
 
 **Map Location c**ontent type allows editors to create a sort of _virtual business card_ for each location. It features key contact information like telephone or email, but also the exact address that will be displayed on the map. 
 

@@ -1,4 +1,4 @@
-# Generic Details
+# Generic Details content type
 
 **Generic detail** allows editors to create pieces of content using a predefined template. **Generic details** comes with a specific layout according to the content you want to display. You can use this content type to create: _News, Case Studies and Success Stories_.
 
@@ -67,7 +67,7 @@ This is information will give us the H1 for the SEO, descriptions and finally th
 ![](../.gitbook/assets/screencapture-kinectenergy-drupal-dev-weknowinc-node-add-generic_detail-2018-10-11-11_24_37.png)
 
 1. **Title**: this is the H1 and it's very important for SEO purposes and the title that will be displayed.
-2. **Breadcrumb** **title**: you can define your own breadcrumb. If you leave this field empty, title will taken as the breadcrumb. 
+2. **Breadcrumb** **title**: you can define your own breadcrumb. If you leave this field empty, title will be taken as breadcrumb. 
 3. **Region:** set the region from the dropdown menu. This content will be displayed only on the region that you have selected.
 4. **Description**: gives you the option to include a text description that will come below the title
 5. **Read** **on**: this is the clickable text that will take users toward that generic detail's page. "Read on" is the text by default but it can be customizable.

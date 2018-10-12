@@ -1,4 +1,4 @@
-# Events / Webinars
+# Events / Webinarsm content type
 
 **Event / Webinars** content type allows editors to create upcoming Events or Webinars that can be displayed by using [Dynamic block ](../paragraphs/dynamic-block.md)paragraphs or views. 
 
@@ -34,6 +34,8 @@ If you don't want to add a Hero banner, skip this step and go directly to the se
 4. **Image size:** this option allow editors to select the image size displayed on the viewport.
 
 ![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LLjYtHePCsCaZ9F3NOs%2F-LMlFAO5Ttgh8hkvZgx0%2F-LMl7GU3GgAaV1P8ATTA%2FImage_size.png?alt=media&token=926eac0e-d08d-43db-83d5-265b6b91f27e)
+
+   ****5 -6. **Overlay color and opacity**: you'll be requested to set a color that will be placed over the image as a background color for the text for featured block item. Once the color selected, you can adjust the opacity. 0 value would be no opacity and 1 full solid color.
 
 {% hint style="info" %}
 Remember that the video will always have the priority over the image. 
