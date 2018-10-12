@@ -1,8 +1,8 @@
 # Map Location
 
-**Map Location c**ontent type allows editors to create a sort of _virtual business card_ for each location. This information the one that will be displayed by using the ****[**Map Location paragraph**](../paragraphs/map-location.md). 
+**Map Location c**ontent type allows editors to create a sort of _virtual business card_ for each location. It features key contact information like telephone or email, but also the exact address that will be displayed on the map. 
 
-It features key contact information like telephone or email, but also the exact address that will be displayed on the map. 
+This is the information that will be displayed by using the ****[**Map Location paragraph**](../paragraphs/map-location.md), so before using the Map Location paragraph, be sure you have already created the Map Location content type that we're about to describe. 
 
 ## How to create a Map Location
 
@@ -32,5 +32,16 @@ Map location's form is composed by two tabs:
    8. **Fax**  
    9. **Email** **Address**  
  10. **Language**: select the language. This is important in order to properly display the content according to the region that users have selected while they browse the website.  
-  11.**Save:** you can select _"Save and Create New Draft",_ "_Save and Request Review"_ or _"Save and Publish"._
+  11.**Save:** you can select _"Save and Create New Draft",_ "_Save and Request Review"_ or _"Save and Publish"._  
+
+
+### Second tab: Location
+
+![](../.gitbook/assets/content_map_tab_location-01.png)
+
+1. **Location**: type the full address. Check that the map is displaying the right location. 
+2. **Language**: select the language. This is important in order to properly display the content according to the region that users have selected while they browse the website.
+3. **Save:** you can select _"Save and Create New Draft",_ "_Save and Request Review"_ or _"Save and Publish"._
+
+Congratulations! You know how to use and create the Map Location Content type. 
 
