@@ -4,6 +4,7 @@
 * [Content types](content-types.md)
 * [Paragraphs - introduction and how to use them](paragraphs-introduction-and-how-to-use-them.md)
 * [Paragraphs available on Kinect \(quick look\)](paragraphs-available-on-kinect-quick-look.md)
+* [Creating pages using paragraphs and content types](creating-pages-using-paragraphs-and-content-types.md)
 
 ## Paragraphs
 
@@ -29,6 +30,7 @@
 * [Events / Webinarsm content type](content-types-1/events-webinars.md)
 * [Profiles content type](content-types-1/profiles.md)
 * [Media content type](content-types-1/media.md)
+* [Standard content page](content-types-1/standard-content-page.md)
 
 ## Views
 
