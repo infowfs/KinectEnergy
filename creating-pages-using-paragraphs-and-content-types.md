@@ -22,5 +22,11 @@ In **orange color,** all the paragraphs that we have used to create the page. On
 
 Is the page where you use the most paragraphs and content types. 
 
-We're going to split the homepage in 2 parts so we can see in detail each one of the components that have been used. 
+First, let's see how Homepage has been built. For this, we're going to split the homepage in 2 parts so we can see in detail each one of the components that have been used. 
+
+![](.gitbook/assets/top_page_components_mesa-de-trabajo-1.png)
+
+As you can see, we're using only using 3 paragraphs: [Hero banner](paragraphs/hero-banner.md), [Featured Blocks](paragraphs/featured-blocks.md) and [Info-graphic](paragraphs/info-graphic.md). Click on them if you want review the instructions on how to create them.  
+
+
 
