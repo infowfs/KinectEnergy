@@ -26,7 +26,16 @@ First, let's see how Homepage has been built. For this, we're going to split the
 
 ![](.gitbook/assets/top_page_components_mesa-de-trabajo-1.png)
 
-As you can see, we're using only using 3 paragraphs: [Hero banner](paragraphs/hero-banner.md), [Featured Blocks](paragraphs/featured-blocks.md) and [Info-graphic](paragraphs/info-graphic.md). Click on them if you want review the instructions on how to create them.  
+As you can see, we're using only using 3 paragraphs: [Hero banner](paragraphs/hero-banner.md), [Featured Blocks](paragraphs/featured-blocks.md) and [Info-graphic](paragraphs/info-graphic.md). Click on them if you want review the instructions on how to create them.  Now, let's check the other half:
+
+![](.gitbook/assets/bottom_half_homepage_mesa-de-trabajo-1-copia.png)
+
+This portion of the page is more elaborated. The first paragraph is a [Video block](paragraphs/video-block.md), so it's just a video embedded. Next we have paragraphs inside paragraphs, created in the following order:
+
+1. First, we create [Columns](paragraphs/columns.md), allowing us to split the page width in two columns. As you can see in the example above, Homepage has one left column at 70% and one right column at 30%. 
+2. Once columns are created, we can nest other components inside each column:
+
+*  **Left column**: we chose[ Dynamic Block](paragraphs/dynamic-block.md) because it allows us to use Views in order to display the [generic details](content-types-1/generic-details.md) that we have created. In this case, we're displaying the view Lastest news. 
 
 
 
