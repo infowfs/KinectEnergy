@@ -12,7 +12,7 @@ First, let's see how Homepage has been built. For this, we're going to split the
 
 ​
 
-As you can see, we're using only using 3 paragraphs: [Hero banner](https://kinectenergy.gitbook.io/kinectenergy/~/drafts/-LP0JPC2cxXHm6-FPiXI/primary/paragraphs/hero-banner), [Featured Blocks](https://kinectenergy.gitbook.io/kinectenergy/~/drafts/-LP0JPC2cxXHm6-FPiXI/primary/paragraphs/featured-blocks) and [Info-graphic](https://kinectenergy.gitbook.io/kinectenergy/~/drafts/-LP0JPC2cxXHm6-FPiXI/primary/paragraphs/info-graphic). Click on them if you want review the instructions on how to create them.
+As you can see, we're using only using 3 paragraphs: [Hero banner](https://kinectenergy.gitbook.io/kinectenergy/~/drafts/-LP0JPC2cxXHm6-FPiXI/primary/paragraphs/hero-banner), [Featured Blocks](https://kinectenergy.gitbook.io/kinectenergy/~/drafts/-LP0JPC2cxXHm6-FPiXI/primary/paragraphs/featured-blocks) and [Info-graphic](https://kinectenergy.gitbook.io/kinectenergy/~/drafts/-LP0JPC2cxXHm6-FPiXI/primary/paragraphs/info-graphic). Click on them if you want to review the instructions on how to create them.
 
 ### Homepage - bottom  {#homepage-bottom}
 
