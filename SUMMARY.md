@@ -4,7 +4,11 @@
 * [Content types](content-types.md)
 * [Paragraphs - introduction and how to use them](paragraphs-introduction-and-how-to-use-them.md)
 * [Paragraphs available on Kinect \(quick look\)](paragraphs-available-on-kinect-quick-look.md)
-* [Creating pages using paragraphs and content types](creating-pages-using-paragraphs-and-content-types.md)
+
+## Creating pages using paragraphs and content types
+
+* [General information](creating-pages-using-paragraphs-and-content-types-1/general-information.md)
+* [Homepage](creating-pages-using-paragraphs-and-content-types-1/homepage.md)
 
 ## Paragraphs
 
