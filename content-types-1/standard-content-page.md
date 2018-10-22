@@ -4,7 +4,7 @@ It's the most used content type. The Standard Content **allows editors to build 
 
 The Standard content page comes with some pre charged features such as: _top links, menu, floating menu and footer -_ so editors can focus on content creation.
 
-## How to create a Profile content type
+## How to create a Standard content page
 
 To create a Generic detail select **Content** =&gt; **Add Content** =&gt; **Standard content page**  
 
