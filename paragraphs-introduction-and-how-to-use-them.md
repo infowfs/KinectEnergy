@@ -10,9 +10,9 @@ This document is a step-by-step guide that meant to help and guide editors throu
 
 ### How to use paragraphs <a id="how-to-use-paragraphs"></a>
 
-Imagine the actual website as an structure filled with different types of paragraphs. As an editor, you can choose which paragraphs fits better for the type of content you're willing to display.
+Imagine the actual website as a structure filled with different types of paragraphs. As an editor, you can choose which paragraphs fits better for the type of content you're willing to display.
 
-Here's an example of how editors used paragraphs to create a basic homepage with the structure of Kinect site:
+Here's an example of how editors used paragraphs and content types to create a basic homepage with the structure of Kinect site:
 
 ![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LLjYtHePCsCaZ9F3NOs%2F-LM2-xbb_xiNAASGTRqo%2F-LM205MPT69do-bZ_2G7%2FFull_homepage-compressed-converted-01.jpg?alt=media&token=87c9478f-28e9-43d6-8cfc-9429d3ec5eb4)
 
