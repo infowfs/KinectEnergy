@@ -8,7 +8,7 @@
 
 As you can see in this example, the editor is using this paragraph to create two columns at 70-30. The left column is displaying a **Latest news**, view while the right one is showcasing two different content types: **Downloads and Events block**.
 
-## Content Types {#content-types}
+## Content Types <a id="content-types"></a>
 
 This paragraph can be used within the following content types:
 
@@ -16,7 +16,7 @@ This paragraph can be used within the following content types:
 
 Currently you can see this paragraph used within Kinect site homepage here: https://www.kinectenergy.com/en
 
-## Step-by-step guide {#step-by-step-guide}
+## Step-by-step guide <a id="step-by-step-guide"></a>
 
 To create a Featured Blocks Paragraph, select **Content** =&gt; **Add Content** =&gt; **Standard Content Page** \(or any other content type that includes this paragraph \).
 

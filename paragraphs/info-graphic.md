@@ -4,7 +4,7 @@ The **"Info-graphic"** allows editors to add strategic visual value to their con
 
 ![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LLjYtHePCsCaZ9F3NOs%2F-LMmX2_HsYcrczkpbeYs%2F-LMmXPhtFLXllgH48B9S%2FInfo_graphic_view.png?alt=media&token=a57255f0-5309-49a0-85eb-5f2efc3ef308)
 
-## Content Types {#content-types}
+## Content Types <a id="content-types"></a>
 
 This paragraph can be used within the following content types:
 
@@ -12,7 +12,7 @@ This paragraph can be used within the following content types:
 
 Currently you can see this paragraph used within Kinect site homepage here: https://www.kinectenergy.com/en
 
-## Step-by-step guide {#step-by-step-guide}
+## Step-by-step guide <a id="step-by-step-guide"></a>
 
 To create an Info-graphic Paragraph, select **Content** =&gt; **Add Content** =&gt; **Standard Content Page**
 

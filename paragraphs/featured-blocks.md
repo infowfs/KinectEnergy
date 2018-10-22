@@ -4,7 +4,7 @@ The **"Featured Blocks"** paragraph allows editors to add one or several **"Feat
 
 ![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LLjYtHePCsCaZ9F3NOs%2F-LMlH4oH9qX3t2LIRkMH%2F-LMlHZ3BQOYBA3wWVHX0%2FFeatured_blocks.png?alt=media&token=c235751d-786e-49ec-86b9-6ef4fd3f244c)
 
-## Content Types {#content-types}
+## Content Types <a id="content-types"></a>
 
 This paragraph can be used within the following content types:
 
@@ -12,7 +12,7 @@ This paragraph can be used within the following content types:
 
 Currently you can see this paragraph used within Kinect site homepage here: https://www.kinectenergy.com/en
 
-## Step-by-step guide {#step-by-step-guide}
+## Step-by-step guide <a id="step-by-step-guide"></a>
 
 To create a Featured Blocks Paragraph, select Content =&gt; Add Content =&gt; Standard Content Page \(or any other content type that includes this paragraph \).
 
@@ -32,7 +32,7 @@ Once the component added, you'll see general options for the Featured Blocks par
 4. **Overlay color and opacity**: you'll be requested to set a color that will be placed over the image as a background color for the text for featured block item. Once the color selected, you can adjust the opacity. 0 value would be no opacity and 1 full solid color.
 5. **Add Featured Block Item:** here's where you can add a single item that will be part of the featured block. You can add as much as you want.
 
-### Adding a Featured Block Item  {#adding-a-featured-block-item}
+### Adding a Featured Block Item  <a id="adding-a-featured-block-item"></a>
 
 This form will help you build each one of the Featured Block Items that will be nested within the Featured block paragraph:
 

@@ -4,7 +4,7 @@
 
 The content for this paragraph must be created using the **Map Location content type**.![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LLjYtHePCsCaZ9F3NOs%2F-LOT46IhqJVlHMzPl5m_%2F-LOT4aDY6tqOMNzq17kD%2FMap_location_view.png?alt=media&token=43c07efe-bac1-4b54-bca3-9c1ae8475ec3)
 
-## **Content Types** {#content-types}
+## **Content Types** <a id="content-types"></a>
 
 This paragraph can be used within the following content types:
 
@@ -12,7 +12,7 @@ This paragraph can be used within the following content types:
 
 Currently you can see this paragraph used within Kinect site homepage here: https://www.kinectenergy.com/en
 
-## **Step-by-step guide** {#step-by-step-guide}
+## **Step-by-step guide** <a id="step-by-step-guide"></a>
 
 To create a Featured Blocks Paragraph, select **Content** =&gt; **Add Content** =&gt; **Standard Content Page** \(or any other content type that includes this paragraph \).
 

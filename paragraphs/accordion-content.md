@@ -2,17 +2,17 @@
 
 **Accordion** allows editors to showcase pieces of contents like blocks. They have the property to show more or less depending on user's preferences, as shown below:
 
-#### Single view {#single-view}
+#### Single view <a id="single-view"></a>
 
 ![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LLjYtHePCsCaZ9F3NOs%2F-LONsoyJ_X6ilshq08mo%2F-LONtE0rya1L1Erg8cKd%2Faccordion_example.png?alt=media&token=5252d06b-d6dd-4d5d-a568-6cb69bb64a53)
 
-#### Multiple view {#multiple-view}
+#### Multiple view <a id="multiple-view"></a>
 
 And this is the view when **more items have been created**. They will always be stacked in the order they were created by the editor.
 
 ![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LLjYtHePCsCaZ9F3NOs%2F-LONsoyJ_X6ilshq08mo%2F-LONtRaShFTFCe5fT2Wd%2Fscreencapture-kinectenergy-drupal-dev-weknowinc-supply-management-2018-10-09-14_39_50.png?alt=media&token=99c1a4b1-952b-4484-949f-6aba8db0fec5)
 
-##  **Content Types** {#content-types}
+##  **Content Types** <a id="content-types"></a>
 
 This paragraph can be used within the following content types:
 
@@ -20,7 +20,7 @@ This paragraph can be used within the following content types:
 
 Currently you can see this paragraph used within Kinect site homepage here: https://www.kinectenergy.com/en
 
-## **Step-by-step guide** {#step-by-step-guide}
+## **Step-by-step guide** <a id="step-by-step-guide"></a>
 
 To create a Featured Blocks Paragraph, select **Content** =&gt; **Add Content** =&gt; **Standard Content Page** \(or any other content type that includes this paragraph \).
 

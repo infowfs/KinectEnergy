@@ -6,7 +6,7 @@ Let's say you want to display an **Image grid**. For this purpose you must selec
 
 ![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LLjYtHePCsCaZ9F3NOs%2F-LOTB4se252CyR9IXe2v%2F-LOTBT6QO9kLsO_GKzAS%2FMedia_library.png?alt=media&token=817244e8-c032-4135-801b-f9946da8c48a)
 
-## **Content Types** {#content-types}
+## **Content Types** <a id="content-types"></a>
 
 This paragraph can be used within the following content types:
 
@@ -14,7 +14,7 @@ This paragraph can be used within the following content types:
 
 Currently you can see this paragraph used within Kinect site homepage here: https://www.kinectenergy.com/en
 
-## **Step-by-step guide** {#step-by-step-guide}
+## **Step-by-step guide** <a id="step-by-step-guide"></a>
 
 To create a Featured Blocks Paragraph, select **Content** =&gt; **Add Content** =&gt; **Standard Content Page** \(or any other content type that includes this paragraph \).
 
@@ -44,9 +44,9 @@ This is the editor's page for the **Media Library** paragraph:
 6. **Add Components:** remember that a page is created by a components and paragraphs. If you add another component, it means that will be placed below the columns you have created. You can add as many components as you want and the components will be stacked and arranged in the order they were created.   
 7. **Save:** you can select _"Save and Create New Draft",_ "_Save and Request Review"_ or _"Save and Publish"._
 
-## Adding a new node {#adding-a-new-node}
+## Adding a new node <a id="adding-a-new-node"></a>
 
-## Adding an existing node {#adding-an-existing-node}
+## Adding an existing node <a id="adding-an-existing-node"></a>
 
 ​
 

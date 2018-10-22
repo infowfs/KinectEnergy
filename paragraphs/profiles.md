@@ -8,7 +8,7 @@ The profile paragraph should look like this:
 
 ![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LLjYtHePCsCaZ9F3NOs%2F-LOTQpxu42fRyWVJNLCE%2F-LOTRBtU3eG237yuqXO9%2FProfiles_view.png?alt=media&token=03ffc872-ada3-45dc-8d00-245eb5f572e9)
 
-## **Content Types** {#content-types}
+## **Content Types** <a id="content-types"></a>
 
 This paragraph can be used within the following content types:
 
@@ -16,7 +16,7 @@ This paragraph can be used within the following content types:
 
 Currently you can see this paragraph used within Kinect site homepage here: https://www.kinectenergy.com/en
 
-## **Step-by-step guide** {#step-by-step-guide}
+## **Step-by-step guide** <a id="step-by-step-guide"></a>
 
 To create a Featured Blocks Paragraph, select **Content** =&gt; **Add Content** =&gt; **Standard Content Page** \(or any other content type that includes this paragraph \).
 

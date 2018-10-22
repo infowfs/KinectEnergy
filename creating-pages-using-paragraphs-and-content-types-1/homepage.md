@@ -1,12 +1,12 @@
 # Homepage
 
-## Homepage {#homepage}
+## Homepage <a id="homepage"></a>
 
 Is the page where you use the most paragraphs and content types.
 
 First, let's see how Homepage has been built. For this, we're going to split the homepage in 2 parts so we can see in detail each one of the components that have been used.
 
-### Homepage - top {#homepage-top}
+### Homepage - top <a id="homepage-top"></a>
 
 ![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LOUIQWNJT0lbihmq1k8%2F-LP07HDbZzGM1hYL3yTX%2F-LP07UA5ftuuw-UJcmdW%2FTop_page_components_Mesa%20de%20trabajo%201.png?alt=media&token=2b05f9b5-d565-400f-947c-028e16013b90)
 
@@ -14,7 +14,7 @@ First, let's see how Homepage has been built. For this, we're going to split the
 
 As you can see, we're using only using 3 paragraphs: [Hero banner](https://kinectenergy.gitbook.io/kinectenergy/~/drafts/-LP0JPC2cxXHm6-FPiXI/primary/paragraphs/hero-banner), [Featured Blocks](https://kinectenergy.gitbook.io/kinectenergy/~/drafts/-LP0JPC2cxXHm6-FPiXI/primary/paragraphs/featured-blocks) and [Info-graphic](https://kinectenergy.gitbook.io/kinectenergy/~/drafts/-LP0JPC2cxXHm6-FPiXI/primary/paragraphs/info-graphic). Click on them if you want to review the instructions on how to create them.
 
-### Homepage - bottom  {#homepage-bottom}
+### Homepage - bottom  <a id="homepage-bottom"></a>
 
 ​
 

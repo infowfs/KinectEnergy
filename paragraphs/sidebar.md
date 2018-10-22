@@ -6,7 +6,7 @@ This is an example of a Siderbar block using a [View Menu](../views/menus.md)
 
 ![](../.gitbook/assets/generic_sidebar.png)
 
-## **Content Types** {#content-types}
+## **Content Types** <a id="content-types"></a>
 
 This paragraph can be used within the following content types:
 
@@ -15,7 +15,7 @@ This paragraph can be used within the following content types:
 
 Currently you can see this paragraph used within Kinect site homepage here: https://www.kinectenergy.com/en
 
-## **Step-by-step guide** {#step-by-step-guide}
+## **Step-by-step guide** <a id="step-by-step-guide"></a>
 
 To create a Featured Blocks Paragraph, select **Content** =&gt; **Add Content** =&gt; **Standard Content Page** \(or any other content type that includes this paragraph \).
 

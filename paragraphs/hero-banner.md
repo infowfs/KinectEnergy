@@ -9,7 +9,7 @@ As shown below:
 
 ![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LLjYtHePCsCaZ9F3NOs%2F-LM2PFo3H--0Rrg0eK_S%2F-LM2Zw3_NEIjY3-5vXYX%2FHero_banner_view.png?alt=media&token=72b27f59-b687-4383-b305-e6a4d29e8b4a)
 
-## Content Types {#content-types}
+## Content Types <a id="content-types"></a>
 
 This paragraph can be used within the following content types:
 
@@ -21,7 +21,7 @@ This paragraph can be used within the following content types:
 
 Currently you can see this paragraph used within Kinect site homepage here: https://www.kinectenergy.com/en
 
-## Step-by-step guide {#step-by-step-guide}
+## Step-by-step guide <a id="step-by-step-guide"></a>
 
 To create a Hero Banner Paragraph, select Content =&gt; Add Content =&gt; Standard Content Page \(or any other content type that includes this paragraph \).
 

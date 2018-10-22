@@ -2,19 +2,19 @@
 
 **Generic detail** allows editors to create pieces of content using a predefined template. **Generic details** comes with a specific layout according to the content you want to display. You can use this content type to create: _News, Case Studies and Success Stories_.
 
-## News {#news}
+## News <a id="news"></a>
 
 This template features two columns \(50-50\) . You can add an image to the left and a title plus description to the right.
 
 ![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LLjYtHePCsCaZ9F3NOs%2F-LOIZd22sbAIphXfziaX%2F-LOI_pqblwB42EY4-LiZ%2FScreenshot%202018-10-08%20at%2013.04.44.png?alt=media&token=da580f9f-7d1c-4e5c-b11b-0e6ff4f8fce2)
 
-## Case Studies {#case-studies}
+## Case Studies <a id="case-studies"></a>
 
 This template is preset as 30-70. The left column is a WYSIWYG that can hold an image, logo, icon and text. The right column features a title, a quotation and a description.
 
 ![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LLjYtHePCsCaZ9F3NOs%2F-LOI_xN7LdNP7tbzzAQy%2F-LOIa9FSGTL9OhS7XaPB%2FScreenshot%202018-10-08%20at%2013.09.33.png?alt=media&token=7b735a29-d8cd-41c7-a704-8d2787a63495)
 
-## Success Stories {#success-stories}
+## Success Stories <a id="success-stories"></a>
 
 This template features two columns \(50-50\) . You can add an image to the left and a title plus description to the right.
 
