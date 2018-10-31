@@ -2,7 +2,7 @@
 
 * [Kinect - Guide for editors](README.md)
 * [Content types](content-types.md)
-* [Paragraphs - introduction and how to use them](paragraphs-introduction-and-how-to-use-them.md)
+* [Components - introduction and how to use them](paragraphs-introduction-and-how-to-use-them.md)
 * [Paragraphs available on Kinect \(quick look\)](paragraphs-available-on-kinect-quick-look.md)
 
 ## Creating pages using paragraphs and content types

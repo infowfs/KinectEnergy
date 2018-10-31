@@ -18,7 +18,7 @@ To create an Info-graphic Paragraph, select **Content** =&gt; **Add Content** =&
 
 ![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LLjYtHePCsCaZ9F3NOs%2F-LM2eE8LU6bsbB9fA1Sc%2F-LM2eP0KF4d-kotXwdEv%2FGen_admin_SCP.png?alt=media&token=7c3dce9b-1da1-4243-8bf3-ab3e53a52c2d)
 
-To add this paragraph, go to **Components tab** and select **Info-graphic** from the the drop down menu,
+To add this paragraph, go to **Components tab** and select **Info-graphic** from the the drop down menu:
 
 ![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LLjYtHePCsCaZ9F3NOs%2F-LMlJW8riS_0RGE0bACw%2F-LMlS1oc3CA9hjSroXo2%2Ffeatured_block_back.png?alt=media&token=81337c52-d2cb-46c9-a550-da7438089e9a)
 
