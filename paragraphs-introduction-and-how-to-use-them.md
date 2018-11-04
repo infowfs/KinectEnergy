@@ -1,8 +1,12 @@
 # Components - introduction and how to use them
 
-**Kinect site** uses Drupal **Components** \(formerly known as paragraphs\) feature as one of the main way to create, edit and present content throughout the site. It gives more editing power to editors: instead of putting all their content in one WYSIWYG body field including images and videos, end-users can now choose on-the-fly between pre-defined Paragraph Types independent from one another.
+**Kinect site** uses Drupal **Components** \(formerly known as paragraphs\) as one of the main ways to create, edit and present content throughout the site, giving more flexibility and versatility to editors. Instead of putting all their content in one WYSIWYG body field including images and videos, end-users can now choose on-the-fly between a variety of Components and Content types to create a page from scratch. 
 
-Components are included into some content types that have the paragraph field included \(Homepage / Standard Content Page, etc\) and allows Editors to create unique and versatile pages very easily. A good example of a Content Type that supports paragraphs is Standard Content Page, which is by the way, the main Content type used to create the pages found on msts.com domain.  Users are allowed to add as many paragraphs as they need into a page, putting one or several paragraph types together.
+Let's say that you want to create a new page called Homepage. In this case, you just select a Standard content page from the content type list and start adding components to showcase the contents needed. 
+
+
+
+\(which is main Content type used to create the pages\) found on msts.com domain.  Users are allowed to add as many paragraphs as they need into a page, putting one or several paragraph types together.
 
 Each paragraph created for Kinect site supports one or several particular features, that is both visual and functional, such as: carousel, images slider, timeline, statistics content, quotes, etc.
 

@@ -23,7 +23,7 @@ Here's a guide for **Content types** available on Kinect Energy:
 
 ## Standard Content <a id="standard-content"></a>
 
-It's the most used content type. The Standard Content **allows editors to build a page by adding components or paragraphs**. Imagine the Standard Content as a blank page and the components or paragraphs as pieces of content that you as an editor, can put together or arrange in many ways.
+It's the most used content type. The Standard Content **allows editors to build a page by adding components or paragraphs**. Imagine the Standard Content as a blank page and the components as pieces of content that you as an editor, can put together or arrange in many ways.
 
 The Standard content page comes with some pre charged features such as: _top links, menu, floating menu and footer -_ so editors can focus on content creation.
 
